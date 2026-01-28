@@ -1,0 +1,5 @@
+Metric,Score,Description
+ETCI,0.515648397017762,Evolutionary Trajectory Coherence
+GPAC,0.5999061395893199,Genotype-Phenotype Alignment
+AEI,0.7400322362115237,Adaptive Efficiency Index
+Overall,0.5965667221218294,Weighted Overall Assessment

@@ -1,0 +1,11 @@
+isolate_idx,initial_genes,final_genes,genes_acquired,acquired_gene_names,final_survival,total_reward
+0,1,16,15,"ere(A), cepS, rmtB1, dfrA21, aac(6')-Ib",0.24645549738219885,0.8311617420662682
+1,1,27,26,"qnrB6, dfrA21, blaSHV-5, erm(B), aac(3)-II",0.24847120418848156,1.4091903957542349
+2,1,14,13,"blaCMY-130, blaL1, blaNDM-1, aac(3)-Ic, arr-3",0.24573821989528788,0.7142018679497806
+3,4,22,18,"oqxB2, dfrI, mcr-3.24, dfrA21, blaMAL-1",0.40343455497382186,0.724581726962432
+4,5,18,13,"blaCMY-76, blaPDC-37, tet(M), aph(4)-Ia, blaDHA-21",0.39503141361256544,0.3361765755701211
+5,5,13,8,"fosX, blaOXA-396, blaOXA-10, blaVEB-5, blaACT-52",0.5,0.05385323325546531
+6,8,10,2,"tet(G), dfrA16",0.5,-0.4879363259353473
+7,6,9,3,"qnrB7, blaCTX-M-1, dfrA7",0.496,-0.34921078943698225
+8,9,32,23,"dfrA19, mcr-3.24, aadS, mcr-9.1, blaEC-18",0.5,0.5303652580074714
+9,8,31,23,"ere(A), blaADC-52, bleO, tet(39), blaCMY-130",0.5,0.5081665651364057
