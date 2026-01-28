@@ -1,3 +1,0 @@
-Ablation,Description,Overall,ETCI,GPAC,AEI,Temporal,Seeds
-No Graph,MLP baseline without any graph structure,0.606 ± 0.000,0.424 ± 0.000,0.618 ± 0.000,0.835 ± 0.000,0.475 ± 0.000,1
-Gene Similarity Only,GCN with gene similarity edges only,0.606 ± 0.000,0.424 ± 0.000,0.618 ± 0.000,0.835 ± 0.000,0.475 ± 0.000,1

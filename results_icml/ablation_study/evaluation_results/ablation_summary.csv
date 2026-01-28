@@ -1,3 +1,0 @@
-Ablation,Description,Seeds,Overall_Mean,Overall_Std,ETCI_Mean,ETCI_Std,GPAC_Mean,GPAC_Std,AEI_Mean,AEI_Std,Temporal_Mean,Temporal_Std
-no_graph,MLP baseline without any graph structure,1,0.606,0.000,0.424,0.000,0.618,0.000,0.835,0.000,0.475,0.000
-gene_similarity_only,GCN with gene similarity edges only,1,0.606,0.000,0.424,0.000,0.618,0.000,0.835,0.000,0.475,0.000
